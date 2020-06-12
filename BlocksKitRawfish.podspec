@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = 'BlocksKitRawfish'
-  s.version               = '2.2.5'
+  s.version               = '2.3'
   s.license               = 'MIT'
   s.summary               = 'The Objective-C block utilities you always wish you had.'
   s.homepage              = 'https://github.com/VladyRF/BlocksKit'
