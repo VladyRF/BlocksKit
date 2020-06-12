@@ -22,7 +22,7 @@
 //      - Select and add "BlocksKit.framework" from Products in the Navigator.
 //  3) Link your application to the BlocksKit framework in the
 //     "Link Binary With Libraries" build phase.
-//  4) `#import <BlocksKit/BlocksKit.h>`
+//  4) `#import <BlocksKitRawfish/BlocksKit.h>`
 //
 //  By using the following install path directive, applications that link the
 //  BlocksKit framework will search for BlocksKit at runtime in any Frameworks

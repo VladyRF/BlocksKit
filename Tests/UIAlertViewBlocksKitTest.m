@@ -4,8 +4,8 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <BlocksKit/UIAlertView+BlocksKit.h>
-#import <BlocksKit/A2DynamicDelegate.h>
+#import <BlocksKitRawfish/UIAlertView+BlocksKit.h>
+#import <BlocksKitRawfish/A2DynamicDelegate.h>
 
 @interface UIAlertViewBlocksKitTest : XCTestCase
 

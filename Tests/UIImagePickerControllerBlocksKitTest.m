@@ -5,9 +5,9 @@
 
 #import <XCTest/XCTest.h>
 #import <UIKit/UIKit.h>
-#import <BlocksKit/A2DynamicDelegate.h>
-#import <BlocksKit/BlocksKit.h>
-#import <BlocksKit/BlocksKit+UIKit.h>
+#import <BlocksKitRawfish/A2DynamicDelegate.h>
+#import <BlocksKitRawfish/BlocksKit.h>
+#import <BlocksKitRawfish/BlocksKit+UIKit.h>
 
 @interface UIImagePickerControllerBlocksKitTest : XCTestCase <UIImagePickerControllerDelegate, UINavigationControllerDelegate>
 

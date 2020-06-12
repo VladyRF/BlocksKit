@@ -4,7 +4,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <BlocksKit/UIControl+BlocksKit.h>
+#import <BlocksKitRawfish/UIControl+BlocksKit.h>
 
 @interface UIControlBlocksKitTest : XCTestCase
 

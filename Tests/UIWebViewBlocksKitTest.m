@@ -4,8 +4,8 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <BlocksKit/UIWebView+BlocksKit.h>
-#import <BlocksKit/A2DynamicDelegate.h>
+#import <BlocksKitRawfish/UIWebView+BlocksKit.h>
+#import <BlocksKitRawfish/A2DynamicDelegate.h>
 
 @interface UIWebViewBlocksKitTest : XCTestCase <UIWebViewDelegate>
 

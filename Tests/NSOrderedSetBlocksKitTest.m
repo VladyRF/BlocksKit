@@ -4,7 +4,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <BlocksKit/NSOrderedSet+BlocksKit.h>
+#import <BlocksKitRawfish/NSOrderedSet+BlocksKit.h>
 
 @interface NSOrderedSetBlocksKitTest : XCTestCase
 

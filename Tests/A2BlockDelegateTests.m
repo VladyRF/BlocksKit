@@ -4,7 +4,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <BlocksKit/A2DynamicDelegate.h>
+#import <BlocksKitRawfish/A2DynamicDelegate.h>
 #import "A2DynamicTestClasses+A2BlockDelegate.h"
 
 @interface A2BlockDelegateTests : XCTestCase

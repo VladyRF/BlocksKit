@@ -6,7 +6,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <BlocksKit/NSMutableIndexSet+BlocksKit.h>
+#import <BlocksKitRawfish/NSMutableIndexSet+BlocksKit.h>
 
 @interface NSMutableIndexSetBlocksKitTest : XCTestCase
 

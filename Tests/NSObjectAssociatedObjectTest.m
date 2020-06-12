@@ -6,7 +6,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <BlocksKit/NSObject+BKAssociatedObjects.h>
+#import <BlocksKitRawfish/NSObject+BKAssociatedObjects.h>
 
 @interface NSObjectAssociatedObjectTest : XCTestCase
 

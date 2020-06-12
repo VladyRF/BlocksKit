@@ -6,7 +6,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <BlocksKit/NSSet+BlocksKit.h>
+#import <BlocksKitRawfish/NSSet+BlocksKit.h>
 
 @interface NSSetBlocksKitTest : XCTestCase
 

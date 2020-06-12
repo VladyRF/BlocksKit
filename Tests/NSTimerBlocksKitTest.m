@@ -6,7 +6,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <BlocksKit/NSTimer+BlocksKit.h>
+#import <BlocksKitRawfish/NSTimer+BlocksKit.h>
 #import "XCTestCase+BKAsyncTestCase.h"
 
 static const NSTimeInterval BKTimerTestInterval = 0.025;

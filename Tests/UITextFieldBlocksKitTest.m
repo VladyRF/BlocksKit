@@ -6,8 +6,8 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <BlocksKit/UITextField+BlocksKit.h>
-#import <BlocksKit/A2DynamicDelegate.h>
+#import <BlocksKitRawfish/UITextField+BlocksKit.h>
+#import <BlocksKitRawfish/A2DynamicDelegate.h>
 
 @interface UITextFieldBlocksKitTest : XCTestCase
 

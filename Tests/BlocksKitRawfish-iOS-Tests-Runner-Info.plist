@@ -9,7 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIdentifier</key>
-	<string>us.pandamonia.BlocksKit.iOS-Tests-Runner</string>
+	<string>us.pandamonia.BlocksKitRawfish.iOS-Tests-Runner</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>

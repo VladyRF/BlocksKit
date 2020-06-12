@@ -4,8 +4,8 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <BlocksKit/NSCache+BlocksKit.h>
-#import <BlocksKit/NSObject+A2DynamicDelegate.h>
+#import <BlocksKitRawfish/NSCache+BlocksKit.h>
+#import <BlocksKitRawfish/NSObject+A2DynamicDelegate.h>
 
 @interface NSCacheBlocksKitTest : XCTestCase <NSCacheDelegate>
 

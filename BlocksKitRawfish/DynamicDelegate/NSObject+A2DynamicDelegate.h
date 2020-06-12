@@ -3,7 +3,7 @@
 //  BlocksKit
 //
 
-#import <BlocksKit/A2DynamicDelegate.h>
+#import <BlocksKitRawfish/A2DynamicDelegate.h>
 #import <Foundation/Foundation.h>
 
 /** The A2DynamicDelegate category to NSObject provides the primary interface

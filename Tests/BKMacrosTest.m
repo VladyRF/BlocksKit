@@ -6,7 +6,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <BlocksKit/BKMacros.h>
+#import <BlocksKitRawfish/BKMacros.h>
 
 @interface BKMacrosTest : XCTestCase
 @end

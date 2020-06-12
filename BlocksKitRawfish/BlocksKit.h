@@ -1,5 +1,5 @@
 //
-//  BlocksKit+MessageUI
+//  BlocksKit
 //
 //  The Objective-C block utilities you always wish you had.
 //
@@ -25,5 +25,19 @@
 //  THE SOFTWARE.
 //
 
-#import <BlocksKit/MFMailComposeViewController+BlocksKit.h>
-#import <BlocksKit/MFMessageComposeViewController+BlocksKit.h>
+#import <BlocksKitRawfish/NSArray+BlocksKit.h>
+#import <BlocksKitRawfish/NSDictionary+BlocksKit.h>
+#import <BlocksKitRawfish/NSIndexSet+BlocksKit.h>
+#import <BlocksKitRawfish/NSInvocation+BlocksKit.h>
+#import <BlocksKitRawfish/NSMutableArray+BlocksKit.h>
+#import <BlocksKitRawfish/NSMutableDictionary+BlocksKit.h>
+#import <BlocksKitRawfish/NSMutableIndexSet+BlocksKit.h>
+#import <BlocksKitRawfish/NSMutableOrderedSet+BlocksKit.h>
+#import <BlocksKitRawfish/NSMutableSet+BlocksKit.h>
+#import <BlocksKitRawfish/NSObject+BKAssociatedObjects.h>
+#import <BlocksKitRawfish/NSObject+BKBlockExecution.h>
+#import <BlocksKitRawfish/NSObject+BKBlockObservation.h>
+#import <BlocksKitRawfish/NSOrderedSet+BlocksKit.h>
+#import <BlocksKitRawfish/NSSet+BlocksKit.h>
+#import <BlocksKitRawfish/NSTimer+BlocksKit.h>
+#import <BlocksKitRawfish/BKMacros.h>

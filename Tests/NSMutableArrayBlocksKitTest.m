@@ -6,7 +6,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <BlocksKit/NSMutableArray+BlocksKit.h>
+#import <BlocksKitRawfish/NSMutableArray+BlocksKit.h>
 
 @interface NSMutableArrayBlocksKitTest : XCTestCase
 
